@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87ce16be-e214-43b7-acf1-396a763a7d5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cJjYJNsO71zSmZ5yDDTsDKXJxX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="cs3500.marblesolitaire.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in HW4 (1)">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.model.hw04.Main" />
+      <module name="HW4" />
+      <option name="PROGRAM_PARAMETERS" value="european " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in HW4 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in HW4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleModelTestConstructors.drawExpectedConstruction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleModelTestConstructors" />
+      <option name="METHOD_NAME" value="drawExpectedConstruction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleModelTestGetScoreAndIsGameOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleModelTestGetScoreAndIsGameOver" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleModelTestMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleModelTestMove" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All in HW4" />
+      <item itemvalue="JUnit.TriangleModelTestConstructors.drawExpectedConstruction" />
+      <item itemvalue="JUnit.TriangleModelTestGetScoreAndIsGameOver" />
+      <item itemvalue="JUnit.TriangleModelTestMove" />
+      <item itemvalue="JUnit.All in HW4 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in HW4 (1)" />
+        <item itemvalue="JUnit.All in HW4" />
+        <item itemvalue="JUnit.TriangleModelTestConstructors.drawExpectedConstruction" />
+        <item itemvalue="JUnit.TriangleModelTestMove" />
+        <item itemvalue="JUnit.TriangleModelTestGetScoreAndIsGameOver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ce16be-e214-43b7-acf1-396a763a7d5c" name="Default Changelist" comment="" />
+      <created>1590253637161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590253637161</updated>
+      <workItem from="1590253639819" duration="24680000" />
+      <workItem from="1590341331715" duration="5499000" />
+      <workItem from="1590348232569" duration="165000" />
+      <workItem from="1590427440236" duration="18000" />
+      <workItem from="1590622224768" duration="3928000" />
+      <workItem from="1590626375402" duration="107000" />
+      <workItem from="1590692626888" duration="438000" />
+      <workItem from="1590696438943" duration="1490000" />
+      <workItem from="1590715533935" duration="921000" />
+      <workItem from="1599243342864" duration="1039000" />
+      <workItem from="1600369018241" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="205" y="158" width="1071" height="519" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590715765566">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="205" y="158" width="1071" height="519" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1590715765566" />
+    <state x="47" y="200" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590696746069">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="47" y="200" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1590696746069" />
+    <state x="47" y="200" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.822@0.23.1440.822" timestamp="1590275234100" />
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1590345580776">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.900@0.0.1440.900" timestamp="1590345580776" />
+    <state x="791" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1590624734126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="791" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590624734126" />
+    <state x="863" y="316" width="472" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590348253292">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="863" y="316" width="472" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1590348253292" />
+    <state x="423" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590271056016">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="423" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1590271056016" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1590716027768">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590716027768" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1590716027767">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590716027767" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1590716027766">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590716027766" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1590716027768">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590716027768" />
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590262699786">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1590262699786" />
+    <state x="740" y="63" key="refactoring.ChangeSignatureDialog" timestamp="1590261779330">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="740" y="63" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1590261779330" />
+    <state x="643" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1590255891905">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="643" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590255891905" />
+  </component>
+</project>
